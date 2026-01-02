@@ -1,0 +1,35 @@
+# Agno AI Framework
+agno
+
+# LLM Providers
+openai
+anthropic
+
+# FastAPI & Server
+fastapi
+uvicorn
+python-multipart
+
+# Database
+sqlalchemy
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Environment & Utils
+python-dotenv
+httpx
+
+# Document Processing & OCR
+pillow
+pdf2image
+pdfplumber          # PDF text extraction (best for text-based PDFs)
+pytesseract         # Tesseract OCR wrapper (requires Tesseract installed)
+easyocr             # Deep learning OCR (optional, better accuracy)
+numpy               # Required for easyocr
+
+# Date handling
+python-dateutil
+requests
+
