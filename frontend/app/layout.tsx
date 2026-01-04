@@ -12,23 +12,7 @@ export const metadata: Metadata = {
   title: "Plum OPD Claims - Insurance Claim Portal",
   description: "Submit and track your OPD insurance claims with Plum Insurance",
   generator: "v0.app",
-  icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
-  },
+  icons: {}
 }
 
 export default function RootLayout({
